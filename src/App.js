@@ -37,7 +37,7 @@ function App() {
           </h2>
           <h3 className="flex items-end justify-end flex-column text-normal font-bold">
           +2.4%
-            <span className="font-normal block opacity-75">fron last month</span>
+            <span className="font-normal block opacity-75">from last month</span>
             
           </h3>
         </article>
